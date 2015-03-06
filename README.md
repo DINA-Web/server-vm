@@ -1,6 +1,6 @@
 # DINA-WEB server vm alpha delivery
 
-Here we use `vagrant` to build the DINA-WEB system from scratch as a server that can be provisioned in a range of different providers, like your own VirtualBox or using third party services like Amazon Elastic Cloud etc.
+Here we want to use `vagrant` to build the DINA-WEB system from scratch as a server that can be provisioned in a range of different providers, like your own VirtualBox or using third party services like Amazon Elastic Cloud etc.
 
 ## Usage instructions
 
